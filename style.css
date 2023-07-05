@@ -1,0 +1,73 @@
+h1, p, h2 {
+    text-align: center;
+    color: lightgray;
+}
+
+body {
+    background-image: url(rafal-jachimczyk-pQh6fZXKedg-unsplash.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    padding: 20px;
+}
+.location {
+    width: 80%;
+    background-color: #002547;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+.country {
+    text-align: left;
+    width: 50%
+}
+.city {
+    text-align: right;
+    width: 50%
+}
+.item p {
+    display: inline-block;
+}
+h2, h1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.established {
+    font-style: italic;
+}
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+}
+hr {
+    height: 2px;
+    background-color: gray;
+    border-color: gray;
+}
+.bottom-line {
+    margin-top: 25px;
+}
+footer {
+    font-size: 14px;
+}
+a {
+    color: lightgray;
+}
+a:visited {
+    color: lightgray;
+}
+a:hover {
+    color: lightgray;
+}
+a:active {
+    color: lightgray;
+}
+.emoji {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: -25px;
+    font-size: 25px;
+}
